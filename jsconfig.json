@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "allowSyntheticDefaultImports": true,
+      "baseUrl": "./src",
+      "jsx": "react",
+      "paths": {
+        "assets": ["assets"],
+        "components": ["components"],
+        "redux" : ["redux"],
+        "register": ["register"],
+        "screens": ["screens"],
+        "shared": ["shared"]
+      }
+    }
+  }
+  
