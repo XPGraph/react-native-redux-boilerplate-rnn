@@ -5,7 +5,7 @@ React Native App with tools and settings
 
 Choose one of the following options:
 
-- [`React Native Getting Started`] (https://facebook.github.io/react-native/docs/getting-started)
+`React Native Getting Started`(https://facebook.github.io/react-native/docs/getting-started)
 
 - Clone the git repo — `git clone
   https://github.com/XPGraph/react-native-redux-boilerplate-rnn`
