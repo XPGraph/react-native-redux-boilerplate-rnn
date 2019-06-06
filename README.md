@@ -12,13 +12,13 @@ Choose one of the following options:
 
 
 - Install with [npm] `npm install`
-- Start with [npm] `npm start`
+- Start with [npm] `npm start -- --reset-cache`
 
 - Install with [yarn] `yarn install`
 - Start with [yarn] `yarn start`
 
-- Start Android `react-native run-ios`
-- Start iOS `react-native run-android`
+- Start Android `react-native run-android`
+- Start iOS `react-native run-ios`
 
 ## Features
 
